@@ -6,8 +6,8 @@ This repository contains a detailed 3D model and technical schematics of the Glo
 
 ## Project Contents
 
-* Accurate 2D technical drawings with dimensions: `SCHITE_2D.dwg`
-* Fully assembled 3D CAD model: `ProdusFinal.dwg`
+* Accurate 2D technical drawings with dimensions: `2DTehnichalSkecthes`
+* Fully assembled 3D CAD model: `3DComponentsAndProduct/ProdusFinal.dwg`
 * Measurements and tolerances based on real-world specifications
 * File formats: `.DWG`, `.PDF`
 
