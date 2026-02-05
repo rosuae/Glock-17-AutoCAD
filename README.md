@@ -4,6 +4,10 @@ This repository contains a detailed 3D model and technical schematics of the Glo
 
 ---
 
+<img width="1920" height="1015" alt="ProdusFinal" src="https://github.com/user-attachments/assets/c92e825e-9a41-4cd6-b367-60fe14480936" />
+<img width="1920" height="1015" alt="ProdusFina2l" src="https://github.com/user-attachments/assets/58995552-2448-4ce0-a7e8-3bf17c661045" />
+<img width="1920" height="1015" alt="ProdusFinal1" src="https://github.com/user-attachments/assets/58ec9a19-74a2-4175-bab3-63f821b32da7" />
+
 ## Project Contents
 
 * Accurate 2D technical drawings with dimensions: `2DTehnichalSkecthes`
